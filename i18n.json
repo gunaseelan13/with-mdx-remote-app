@@ -1,0 +1,7 @@
+{
+    "locales": ["en-US", "ta-IN"],
+    "defaultLocale": "en-US",
+    "pages": {
+       "*": ["home"]
+    }
+}
